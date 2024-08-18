@@ -1,0 +1,2 @@
+https://www.demo1.com/api/path Demo-1
+https://www.demo2.com/api/path Demo-2
